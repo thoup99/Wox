@@ -1,9 +1,0 @@
-{
-	"unlocks": {
-		"Baby": true,
-		"Easy": true,
-		"Normal": false,
-		"Hard": false,
-		"Extreme": false
-	}
-}
