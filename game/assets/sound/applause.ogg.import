@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/applause.ogg-fab361a4e507d3ccd80aa0ed4b9304e0.oggstr"
+
+[deps]
+
+source_file="res://game/assets/sound/applause.ogg"
+dest_files=[ "res://.import/applause.ogg-fab361a4e507d3ccd80aa0ed4b9304e0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

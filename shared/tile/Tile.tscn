@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://shared/tile/Tile.gd" type="Script" id=1]
+[ext_resource path="res://shared/tile/tile2.png" type="Texture" id=2]
+[ext_resource path="res://shared/fonts/Bebas Neue/BebasNeue-Regular.ttf" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFont" id=2]
+size = 32
+font_data = ExtResource( 3 )
+
+[node name="Tile" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 2 )
+
+[node name="Label" type="Label" parent="."]
+unique_name_in_owner = true
+margin_left = -15.0
+margin_top = -20.0
+margin_right = 15.0
+margin_bottom = 23.0
+custom_colors/font_color = Color( 0.121569, 0.121569, 0.121569, 1 )
+custom_fonts/font = SubResource( 2 )
+text = " "
+align = 1
+valign = 1
