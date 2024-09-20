@@ -12,5 +12,5 @@ Wox earned 4th place at the FBLA State Leadership Conference in Pennsylvania.
 
 # Reflection
 This game was the first one I've made that has ever been released. I did a majority of the programming work and have learned a lot from it. I've been working a lot more on code reusability and project organization as a result of this project.
-A lot of the code in this game is reusable but editing some systems can be challenging or tedious. In my future projects like [Monopoly](https://github.com/thoup99/Monopoly) and my next unannounced game I have been writing better, more sustainable code.
+A lot of the code in this game is reusable but editing some systems can be challenging or tedious. In my future projects like [Monopoly](https://github.com/thoup99/Monopoly) and my next unannounced game, I have been writing better, more sustainable code.
 I learned a lot from this experience and grew closer to my friends in the process, although it might not have placed at nationals we are all still proud of what we made and gained lots of valuable knowledge in the process.
